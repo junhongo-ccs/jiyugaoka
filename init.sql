@@ -149,7 +149,7 @@ INSERT INTO coffee_shops (source_id, name, address, geom, category, tags, descri
   'curated-starbucks-okusawa-2',
   'スターバックス コーヒー 奥沢2丁目店',
   '東京都世田谷区奥沢2丁目38-9',
-  ST_SetSRID(ST_MakePoint(139.6769, 35.6068), 4326),
+  ST_SetSRID(ST_MakePoint(139.6712092, 35.607391), 4326),
   'coffee_shop',
   'study|spacious|atmosphere|specialty',
   'チェーン店ながら価格帯がやや上で、木材を多用したリラックスでモダンな空間が特徴の奥沢側候補です。'
@@ -257,7 +257,7 @@ INSERT INTO coffee_shops (source_id, name, address, geom, category, tags, descri
   'curated-utakata',
   'UTAKATA COFFEE',
   '東京都世田谷区奥沢5-14-31 クレインI 101',
-  ST_SetSRID(ST_MakePoint(139.6737, 35.6031), 4326),
+  ST_SetSRID(ST_MakePoint(139.67244390418, 35.603981238679), 4326),
   'coffee_shop',
   'atmosphere|cozy|quiet|specialty',
   '奥沢南東側で、雰囲気重視や静かな時間に寄せやすいコーヒー候補です。'
@@ -366,7 +366,7 @@ INSERT INTO coffee_shops (source_id, name, address, geom, category, tags, descri
   'アルファベータコーヒークラブ
 自由が丘コンコード店',
   '東京都目黒区自由が丘 2-9-24 自由が丘コンコード 1F',
-  ST_SetSRID(ST_MakePoint(139.6681537, 35.60985536), 4326),
+  ST_SetSRID(ST_MakePoint(139.6681489, 35.6096406), 4326),
   'coffee_shop',
   'study|specialty|atmosphere|quiet',
   'ハンドドリップと充実の軽食が魅力です。開放感ある店内のソファ席や、ペット可のテラスで会話を楽しみたい時に最適。'
