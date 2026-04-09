@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+  font-family:
+    "Avenir Next",
+    "Hiragino Sans",
+    "Yu Gothic",
+    sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+#map {
+  min-height: 520px;
+}
+
+.leaflet-container {
+  font:
+    14px/1.5 "Avenir Next",
+    "Hiragino Sans",
+    "Yu Gothic",
+    sans-serif;
+}
+
+.custom-marker-shell {
+  background: transparent;
+  border: 0;
+}
+
+.custom-marker {
+  display: block;
+  width: 18px;
+  height: 18px;
+  border: 2px solid #fff;
+  border-radius: 9999px;
+  box-shadow:
+    0 0 0 5px rgba(255, 255, 255, 0.12),
+    0 8px 20px rgba(0, 0, 0, 0.35);
+}
+
+.legend-dot {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  border: 2px solid #fff;
+  border-radius: 9999px;
+}
+
+.popup-card {
+  min-width: 180px;
+  color: #111827;
+}
+
+@media (max-width: 1024px) {
+  #map {
+    min-height: 420px;
+  }
+}

@@ -1,0 +1,6 @@
+name,kind,latitude,longitude,distance_from_jiyugaoka_station_m,walk_minutes_from_jiyugaoka_station
+自宅,home,35.60299059356529,139.67123845919508,574,8
+amber,coffee_shop,35.6065625,139.6668125,220,3
+ONIBUS COFFEE 自由が丘店,coffee_shop,35.6085625,139.6718125,290,4
+Cafe Aranciato,coffee_shop,35.6031875,139.6718125,577,8
+UTAKATA COFFEE,coffee_shop,35.6031,139.6737,683,9

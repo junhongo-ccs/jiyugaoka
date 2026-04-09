@@ -1,0 +1,23 @@
+{
+  "source_zip": "data/plateau/13110_meguro-ku_pref_2025_citygml_1_op.zip",
+  "bbox": {
+    "min_lat": 35.5986125,
+    "max_lat": 35.611055359999995,
+    "min_lon": 139.65981250000002,
+    "max_lon": 139.6803
+  },
+  "input_points": 32,
+  "mesh_codes": [
+    "53393513",
+    "53393522",
+    "53393523",
+    "53393524",
+    "53393533"
+  ],
+  "used_files": [
+    "udx/bldg/53393523_bldg_6697_op.gml",
+    "udx/bldg/53393524_bldg_6697_op.gml",
+    "udx/bldg/53393533_bldg_6697_op.gml"
+  ],
+  "feature_count": 7893
+}
