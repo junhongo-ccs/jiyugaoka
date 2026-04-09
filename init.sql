@@ -257,7 +257,7 @@ INSERT INTO coffee_shops (source_id, name, address, geom, category, tags, descri
   'curated-utakata',
   'UTAKATA COFFEE',
   '東京都世田谷区奥沢5-14-31 クレインI 101',
-  ST_SetSRID(ST_MakePoint(139.67244390418, 35.603981238679), 4326),
+  ST_SetSRID(ST_MakePoint(139.6715276097942, 35.604906024507784), 4326),
   'coffee_shop',
   'atmosphere|cozy|quiet|specialty',
   '奥沢南東側で、雰囲気重視や静かな時間に寄せやすいコーヒー候補です。'
